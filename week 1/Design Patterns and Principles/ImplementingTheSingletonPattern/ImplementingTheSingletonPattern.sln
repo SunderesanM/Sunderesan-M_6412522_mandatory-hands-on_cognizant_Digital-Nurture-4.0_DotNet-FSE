@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36203.30 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing the Singleton Pattern", "Implementing the Singleton Pattern.csproj", "{2FA97D9F-82A3-4083-9E46-7476405B80E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingTheSingletonPattern", "ImplementingTheSingletonPattern.csproj", "{045BE3DE-DADD-4833-A2AA-DD17163B5FAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2FA97D9F-82A3-4083-9E46-7476405B80E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FA97D9F-82A3-4083-9E46-7476405B80E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FA97D9F-82A3-4083-9E46-7476405B80E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FA97D9F-82A3-4083-9E46-7476405B80E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045BE3DE-DADD-4833-A2AA-DD17163B5FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045BE3DE-DADD-4833-A2AA-DD17163B5FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045BE3DE-DADD-4833-A2AA-DD17163B5FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045BE3DE-DADD-4833-A2AA-DD17163B5FAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {57475731-B128-4FBC-9EE9-7EE3A54DDD20}
+		SolutionGuid = {2783DC4F-7ADD-4729-AA27-B0420DCB04EA}
 	EndGlobalSection
 EndGlobal

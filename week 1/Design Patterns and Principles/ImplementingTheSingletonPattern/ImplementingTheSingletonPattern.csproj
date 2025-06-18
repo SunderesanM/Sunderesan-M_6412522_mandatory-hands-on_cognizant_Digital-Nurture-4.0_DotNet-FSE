@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2FA97D9F-82A3-4083-9E46-7476405B80E3}</ProjectGuid>
+    <ProjectGuid>{045BE3DE-DADD-4833-A2AA-DD17163B5FAF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Implementing_the_Singleton_Pattern</RootNamespace>
-    <AssemblyName>Implementing the Singleton Pattern</AssemblyName>
+    <RootNamespace>ImplementingTheSingletonPattern</RootNamespace>
+    <AssemblyName>ImplementingTheSingletonPattern</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
