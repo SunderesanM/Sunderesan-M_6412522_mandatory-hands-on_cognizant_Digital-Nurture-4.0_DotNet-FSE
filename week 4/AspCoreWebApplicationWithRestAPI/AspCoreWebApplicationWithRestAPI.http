@@ -1,0 +1,6 @@
+@AspCoreWebApplicationWithRestAPI_HostAddress = http://localhost:5155
+
+GET {{AspCoreWebApplicationWithRestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
