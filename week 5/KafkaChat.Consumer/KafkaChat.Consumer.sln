@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaChat.Consumer", "KafkaChat.Consumer.csproj", "{D41B44E5-B69E-4037-AE6C-C2A5D7C63731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41B44E5-B69E-4037-AE6C-C2A5D7C63731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41B44E5-B69E-4037-AE6C-C2A5D7C63731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41B44E5-B69E-4037-AE6C-C2A5D7C63731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41B44E5-B69E-4037-AE6C-C2A5D7C63731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741510D6-330A-4B93-A3EA-5BED41E2B79B}
+	EndGlobalSection
+EndGlobal
