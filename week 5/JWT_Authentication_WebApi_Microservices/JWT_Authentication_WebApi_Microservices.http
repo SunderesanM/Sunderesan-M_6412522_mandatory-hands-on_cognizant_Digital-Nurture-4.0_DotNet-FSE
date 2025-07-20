@@ -1,0 +1,6 @@
+@JWT_Authentication_WebApi_Microservices_HostAddress = http://localhost:5243
+
+GET {{JWT_Authentication_WebApi_Microservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
