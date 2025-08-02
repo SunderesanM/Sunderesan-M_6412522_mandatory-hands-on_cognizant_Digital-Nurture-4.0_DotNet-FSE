@@ -1,0 +1,21 @@
+.App {
+  padding: 100px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.officeDesign {
+  padding: 12px;
+  margin: 12px auto;
+  width: 100%;
+}
+
+.textRed {
+  color: red;
+  font-weight: bold;
+}
+
+.textGreen {
+  color: green;
+  font-weight: bold;
+}
