@@ -1,1 +1,2 @@
 this line is from main branch
+updates branchfile.txt in GitNewBranch
